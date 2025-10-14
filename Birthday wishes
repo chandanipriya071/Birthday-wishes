@@ -1,4 +1,4 @@
-public class birthday.        b. c.   {
+public class birthday.        b.    {
     public static void main(String[]ad){
         System.out.println("I am writing happy birthday 100 times");
         for(int i=1;i<=100;i++){
