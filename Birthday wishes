@@ -1,8 +1,18 @@
+
+
+
+
+FTV HB gb bh bgb j ch n. vg n bh n v. 
+
+
+
+
+
 public class birthday{
     public static void main(String[]ad){
         System.out.println("I am writing happy birthday 100 times");
         for(int i=1;i<=100;i++){
-            System.out.println("Happy Birthday Babu");
+            System.out.println("Happy Birthday Ashu");
         }
     }
 }
