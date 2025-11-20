@@ -1,11 +1,4 @@
 
-
-
-
-FTV 
-
-
-
 public class birthday{
     public static void main(String[]ad){
         System.out.println("I am writing happy birthday 100 times");
